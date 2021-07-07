@@ -1,5 +1,6 @@
 [
   {
+    "ID": "ab1d",
     "BRAND": "iPhone",
     "PNAME": "iPhone7",
     "GNAME": "iphone7.png",
@@ -10,6 +11,7 @@
     "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   },
   {
+    "ID": "ab2d",
     "BRAND": "Samsung",
     "PNAME": "Samsung Note8",
     "GNAME": "samsungnote8.png",
@@ -20,6 +22,7 @@
     "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
   },
   {
+    "ID": "ab3d",
     "BRAND": "Google",
     "PNAME": "Pixel 2 XL",
     "GNAME": "googlepixel2.png",
