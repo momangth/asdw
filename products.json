@@ -1,9 +1,9 @@
 [
   {
-    "ID": "ab1d",
-    "BRAND": "iPhone",
-    "PNAME": "iPhone7",
-    "GNAME": "iphone7.png",
+    "ID": "PizzaHut1",
+    "BRAND": "PizzaHut",
+    "PNAME": "Bacon Potato",
+    "GNAME": "BaconPotato.png",
     "CPrice": "659.9900",
     "MSRP": "509.0000",
     "QOH": "0",
@@ -11,27 +11,158 @@
     "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
   },
   {
-    "ID": "ab2d",
-    "BRAND": "Samsung",
-    "PNAME": "Samsung Note8",
-    "GNAME": "samsungnote8.png",
+    "ID": "PizzaHut2",
+    "BRAND": "PizzaHut",
+    "PNAME": "Black Aglio Steak",
+    "GNAME": "BlackAglioSteak.png",
+    "CPrice": "659.9900",
+    "MSRP": "509.0000",
+    "QOH": "2",
+    "QOBO": "14",
+    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "ID": "PizzaHut3",
+    "BRAND": "PizzaHut",
+    "PNAME": "Real Half And Half",
+    "GNAME": "RealHalfAndHalf.png",
+    "CPrice": "659.9900",
+    "MSRP": "509.0000",
+    "QOH": "4",
+    "QOBO": "14",
+    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+    {
+    "ID": "PizzaHut4",
+    "BRAND": "PizzaHut",
+    "PNAME": "T-bone Shrimp",
+    "GNAME": "TboneShrimp.png",
+    "CPrice": "659.9900",
+    "MSRP": "509.0000",
+    "QOH": "0",
+    "QOBO": "1",
+    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+    {
+    "ID": "PizzaHut5",
+    "BRAND": "PizzaHut",
+    "PNAME": "Topping King",
+    "GNAME": "ToppingKing.png",
+    "CPrice": "659.9900",
+    "MSRP": "509.0000",
+    "QOH": "1",
+    "QOBO": "4",
+    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "ID": "PizzaMaru1",
+    "BRAND": "PizzaMaru",
+    "PNAME": "BBQ Real Chicago Season 2",
+    "GNAME": "BBQRealChicagoSeason2.png",
     "CPrice": "1149.9900",
     "MSRP": "1259.9900",
     "QOH": "5",
-    "QOBO": "2",
+    "QOBO": "8",
+    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+    {
+    "ID": "PizzaMaru2",
+    "BRAND": "PizzaMaru",
+    "PNAME": "Chicken Tender Pizza",
+    "GNAME": "ChickenTenderPizza.png",
+    "CPrice": "1149.9900",
+    "MSRP": "1259.9900",
+    "QOH": "5",
+    "QOBO": "6",
+    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+    {
+    "ID": "PizzaMaru3",
+    "BRAND": "PizzaMaru",
+    "PNAME": "Maru Combination Pizza",
+    "GNAME": "MaruCombinationPizza.png",
+    "CPrice": "1149.9900",
+    "MSRP": "1259.9900",
+    "QOH": "5",
+    "QOBO": "8",
+    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+    {
+    "ID": "PizzaMaru4",
+    "BRAND": "PizzaMaru",
+    "PNAME": "Overwhelming Pizza",
+    "GNAME": "OverwhelmingPizza.png",
+    "CPrice": "1149.9900",
+    "MSRP": "1259.9900",
+    "QOH": "2",
+    "QOBO": "4",
+    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+  },
+    {
+    "ID": "PizzaMaru5",
+    "BRAND": "PizzaMaru",
+    "PNAME": "Meat Eating Dinosaur",
+    "GNAME": "MeatEatingDinosaur.png",
+    "CPrice": "1149.9900",
+    "MSRP": "1259.9900",
+    "QOH": "4",
+    "QOBO": "6",
     "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
   },
   {
-    "ID": "ab3d",
-    "BRAND": "Google",
-    "PNAME": "Pixel 2 XL",
-    "GNAME": "googlepixel2.png",
+    "ID": "DominosPizza1",
+    "BRAND": "DominosPizza",
+    "PNAME": "New York Origin Triple Cheese Burst Edge",
+    "GNAME": "NewYorkOriginTripleCheeseBurstEdge.png",
+    "CPrice": "1139.9900",
+    "MSRP": "1259.9900",
+    "QOH": "1",
+    "QOBO": "1",
+    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+  },
+    {
+    "ID": "DominosPizza2",
+    "BRAND": "DominosPizza",
+    "PNAME": "Black Angus Steak Triple Cheese Burst Edge",
+    "GNAME": "Black Angus Steak Triple Cheese Burst Edge.png",
+    "CPrice": "1139.9900",
+    "MSRP": "1259.9900",
+    "QOH": "1",
+    "QOBO": "2",
+    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+  },
+    {
+    "ID": "DominosPizza3",
+    "BRAND": "DominosPizza",
+    "PNAME": "Black Tiger Shrimp Triple Cheese Burst Edge",
+    "GNAME": "Black Tiger Shrimp Triple Cheese Burst Edge.png",
+    "CPrice": "1139.9900",
+    "MSRP": "1259.9900",
+    "QOH": "2",
+    "QOBO": "5",
+    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+  },
+    {
+    "ID": "DominosPizza4",
+    "BRAND": "DominosPizza",
+    "PNAME": "Blockbuster4",
+    "GNAME": "Blockbuster4.png",
+    "CPrice": "1139.9900",
+    "MSRP": "1259.9900",
+    "QOH": "0",
+    "QOBO": "4",
+    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+  },
+    {
+    "ID": "DominosPizza5",
+    "BRAND": "DominosPizza",
+    "PNAME": "Potato Triple Cheese Burst Edge",
+    "GNAME": "Potato Triple Cheese Burst Edge.png",
     "CPrice": "1139.9900",
     "MSRP": "1259.9900",
     "QOH": "0",
     "QOBO": "1",
     "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
   }
-
 ] 
   
