@@ -8,7 +8,7 @@
     "MSRP": "509.0000",
     "QOH": "0",
     "QOBO": "14",
-    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "Description": "Add flavor to the savory flavor of the potatoes."
   },
   {
     "ID": "PizzaHut2",
@@ -19,7 +19,7 @@
     "MSRP": "509.0000",
     "QOH": "2",
     "QOBO": "14",
-    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "Description": "Peaking steak & whole shrimp with black alio."
   },
   {
     "ID": "PizzaHut3",
@@ -30,7 +30,7 @@
     "MSRP": "509.0000",
     "QOH": "4",
     "QOBO": "14",
-    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "Description": "Real half and half enjoying roast beef and honey mustard shrimp to the edge."
   },
     {
     "ID": "PizzaHut4",
@@ -41,7 +41,7 @@
     "MSRP": "509.0000",
     "QOH": "0",
     "QOBO": "1",
-    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "Description": "A round of premium T-bone steak and shrimp!"
   },
     {
     "ID": "PizzaHut5",
@@ -52,7 +52,7 @@
     "MSRP": "509.0000",
     "QOH": "1",
     "QOBO": "4",
-    "Description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    "Description": "Plenty of toppings such as shrimp and meat, various flavors"
   },
   {
     "ID": "PizzaMaru1",
@@ -63,7 +63,7 @@
     "MSRP": "1259.9900",
     "QOH": "5",
     "QOBO": "8",
-    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "Description": "Roast onion filled with toppings, barbecue chicken with smoke barbecue sauce, authentic BBQ Chicago pizza."
   },
     {
     "ID": "PizzaMaru2",
@@ -74,7 +74,7 @@
     "MSRP": "1259.9900",
     "QOH": "5",
     "QOBO": "6",
-    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "Description": "Grill a soft tenderloin tender strip in the oven and enjoy it with a pizza floor special steak sauce."
   },
     {
     "ID": "PizzaMaru3",
@@ -85,7 +85,7 @@
     "MSRP": "1259.9900",
     "QOH": "5",
     "QOBO": "8",
-    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "Description": "Pizza Maru bestseller topped with fresh vegetables, ham and peparoni!"
   },
     {
     "ID": "PizzaMaru4",
@@ -96,7 +96,7 @@
     "MSRP": "1259.9900",
     "QOH": "2",
     "QOBO": "4",
-    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "Description": "Three deep, rich flavors of cheddar! Overwhelming pizza with spicy jalapenos and authentic cheeseburgers."
   },
     {
     "ID": "PizzaMaru5",
@@ -107,7 +107,7 @@
     "MSRP": "1259.9900",
     "QOH": "4",
     "QOBO": "6",
-    "Description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+    "Description": "MaruFive Part 2! Meat-shooting MaruFive, which starts with meat and ends with meat."
   },
   {
     "ID": "DominosPizza1",
@@ -118,7 +118,7 @@
     "MSRP": "1259.9900",
     "QOH": "1",
     "QOBO": "1",
-    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    "Description": "Eat something delicious more deliciously! Three cheeses on the edge! (String Cheese + Gruyere Cream Cheese Spread + Promage Blanc Cream Mousse) New York Origin at Triple Cheese Burst Edge!"
   },
     {
     "ID": "DominosPizza2",
@@ -129,7 +129,7 @@
     "MSRP": "1259.9900",
     "QOH": "1",
     "QOBO": "2",
-    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    "Description": "Eat something delicious more deliciously! Three different cheeses on the edge! (string cheese + Gruyere cream spread + promage blanc cream mousse) Black Angus steak at triple cheese burst edge!"
   },
     {
     "ID": "DominosPizza3",
@@ -140,7 +140,7 @@
     "MSRP": "1259.9900",
     "QOH": "2",
     "QOBO": "5",
-    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    "Description": "Eat something delicious more deliciously! Three cheeses on the edge! (string cheese + Gruyere cream spread + promage blanc cream mousse) Black Tiger shrimp with triple cheese burst edge!"
   },
     {
     "ID": "DominosPizza4",
@@ -151,7 +151,7 @@
     "MSRP": "1259.9900",
     "QOH": "0",
     "QOBO": "4",
-    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    "Description": "Composed of premium ingredients!Blockbuster Quattro Pizza with premium dishes from all four cities!Best seafood and meat dishes from all over the world!"
   },
     {
     "ID": "DominosPizza5",
@@ -162,7 +162,7 @@
     "MSRP": "1259.9900",
     "QOH": "0",
     "QOBO": "1",
-    "Description": "ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+    "Description": "Eat something delicious more deliciously! Three different cheeses on the edge! (string cheese + Gruyere cream spread + promage blanc cream mousse) Potato with triple cheese burst edge!"
   }
 ] 
   
